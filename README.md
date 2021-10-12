@@ -1,4 +1,4 @@
-# PixelPyramids: Exact Inference Models from Lossless Image Pyramid
+# PixelPyramids: Exact Inference Models from Lossless Image Pyramids
 
 This repository contains the PyTorch implementation of the paper
 
