@@ -76,7 +76,7 @@ The models were trained on four nvidia V100 GPU with 32 GB memory. The levels ca
 ## Results
 
 
-### Evaluation on PixelPramids 5-bit 
+### Evaluation on different datasets 
 
 |              	   |    bits/dim    |  
 | ---------------- | -------------- |
