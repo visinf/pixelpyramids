@@ -1,0 +1,13 @@
+{"params":{
+	"dataset_name" : "lsun_bedroom",
+	"data_root" : "../lsun_data/lsun",
+	"batch_size" : 4,
+	"L" : 11,
+	"C" : 64,
+	"n_bits": 5,
+	"eval_interval" : 1,
+	"n_classes" : [100,100,100,100,100,100,100,100,100,100,100], 
+	"n_squeeze" : [2,2,2,2,1,1,1,1,1,1,1],
+	"n_channels" : 96,
+	"n_res_layers" : 5
+}}

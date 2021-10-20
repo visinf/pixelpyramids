@@ -1,0 +1,13 @@
+{"params":{
+	"dataset_name" : "celeba_256",
+	"data_root" : "../celeba_data/celeba_data/",
+	"batch_size" : 48,
+	"L" : 13,
+	"C" : 64,
+	"n_bits": 5,
+	"eval_interval" : 1,
+	"n_classes" : [100,100,100,100,100,100,100,100,100,100,100,100,100], 
+	"n_squeeze" : [2,2,2,2,1,1,1,1,1,1,1,1],
+	"n_channels" : 32,
+	"n_res_layers" : 2
+}}
