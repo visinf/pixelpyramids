@@ -1,8 +1,8 @@
 # PixelPyramids: Exact Inference Models from Lossless Image Pyramids
 
 <p align="center">
-  <img width="320" height="200" src="/assets/celeba_256.png" hspace="30">
-  <img width="320" height="200" src="/assets/celeba1024.png" hspace="30">
+  <img width="320" height="150" src="/assets/celeba_256.png" hspace="30">
+  <img width="320" height="150" src="/assets/celeba1024.png" hspace="30">
 </p>
 
 This repository is the PyTorch implementation of the paper:
