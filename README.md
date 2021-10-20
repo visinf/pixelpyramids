@@ -7,7 +7,8 @@
 
 This repository is the PyTorch implementation of the paper:
 
-[**PixelPyramids: Exact Inference Models from Lossless Image Pyramids**](https://openaccess.thecvf.com/content/ICCV2021/html/Mahajan_PixelPyramids_Exact_Inference_Models_From_Lossless_Image_Pyramids_ICCV_2021_paper.html)
+[**PixelPyramids: Exact Inference Models from Lossless Image Pyramids (ICCV 2021)**](https://openaccess.thecvf.com/content/ICCV2021/html/Mahajan_PixelPyramids_Exact_Inference_Models_From_Lossless_Image_Pyramids_ICCV_2021_paper.html)
+
 [Shweta Mahajan](https://www.visinf.tu-darmstadt.de/visinf/team_members/smahajan/smahajan.en.jsp) and [Stefan Roth](https://www.visinf.tu-darmstadt.de/visinf/team_members/sroth/sroth.en.jsp)
 
 
