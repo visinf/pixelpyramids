@@ -67,7 +67,7 @@ Please follow the following instructions for training:
 
 ## Generation and Validation
 
-Samples and test results in bits/dim can be obtained using `main.py`. Generated samples are stored in the `./samples` folder. Download the [checkpoints](https://drive.google.com/drive/folders/1F74VFrmW8P6WMUZ7pLqvtVX0ZMY6HMK-?usp=sharing) to the `ckpts` folder.
+Samples and test results in bits/dim can be obtained using `main.py`. Generated samples are stored in the `./samples` folder. Download the [checkpoints](http://download.visinf.informatik.tu-darmstadt.de/2021-iccv-mahajan-pixelpyramids/ckpts.tar.gz) to the `ckpts` folder.
 
 ### Memory requirements
 The models were trained on four nvidia V100 GPU with 32 GB memory. The levels can be trained in parallel with a maximum of 24GB memory per level.
